@@ -21,6 +21,7 @@ window.__API_URL__ = "http://localhost:8080/api";
 
 
 #### Tecnologias utilizadas
+* Bootstrap
 * HTML
 * CSS
 * JavaScript
