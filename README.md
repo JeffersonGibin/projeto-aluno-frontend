@@ -50,9 +50,6 @@ window.__API_URL__ = "http://localhost:8080/api";
 * **Botão Importar:** para Importar as notas de um aluno selecione um aluno marcando o campo checkbox e logo após clique em **Importar**.
 * **Botão Exportar:** para exportar as notas de um aluno selecione um aluno marcando o campo checkbox e logo após clique em **Exportar**. Será gerado um arquivo no formato .CSV.
 
-3.1 Formulário para importar as notas de um aluno.
-![](telas/importarprova.png)
-
 * Para importar uma prova selecione um arquivo no formato .csv que contenha o padrão da tabela a seguir.
 
 **O arquivo deve conter apenas os valores das colunas sem cabeçalho**
@@ -63,6 +60,9 @@ window.__API_URL__ = "http://localhost:8080/api";
 | P | 18/10/2018 |  8 |
 | H | 20/10/2018 |  7 |
 
+3.1 Formulário para importar as notas de um aluno.
+
+![](telas/importarprova.png)
 
 #### Tecnologias utilizadas
 * Bootstrap
