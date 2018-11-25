@@ -21,8 +21,8 @@ window.__API_URL__ = "http://localhost:8080/api";
 
 1. Cadastro de alunos.
 * **Botão Cadastrar:** para cadastrar um aluno clique no botão **inserir**.
-* **Botão Editar: ** para editar um aluno selecione marcando o campo checkbox e logo após clique em **editar**.
-* **Botão Deletar: ** para editar um aluno selecione o aluno marcando campo checkbox e logo após clique em **deletar**.
+* **Botão Editar:** para editar um aluno selecione marcando o campo checkbox e logo após clique em **editar**.
+* **Botão Deletar:** para editar um aluno selecione o aluno marcando campo checkbox e logo após clique em **deletar**.
 
 ![github-small](telas/cadastro-aluno.png)
 
@@ -49,6 +49,20 @@ window.__API_URL__ = "http://localhost:8080/api";
 * **Botão Visualizar:** para visualizar as notas de um aluno selecione um aluno marcando o campo checkbox e logo após clique em **visualizar**.
 * **Botão Importar:** para Importar as notas de um aluno selecione um aluno marcando o campo checkbox e logo após clique em **Importar**.
 * **Botão Exportar:** para exportar as notas de um aluno selecione um aluno marcando o campo checkbox e logo após clique em **Exportar**. Será gerado um arquivo no formato .CSV.
+
+3.1 Formulário para importar as notas de um aluno.
+![](telas/importarprova.png)
+
+* Para importar uma prova selecione um arquivo no formato .csv que contenha o padrão da tabela a seguir.
+
+**O arquivo deve conter apenas os valores das colunas sem cabeçalho**
+
+| Matérias        | Data        | Nota  |
+| -------------  |:-------------:| -----:|
+| M | 17/10/2018 | 10 |
+| P | 18/10/2018 |  8 |
+| H | 20/10/2018 |  7 |
+
 
 #### Tecnologias utilizadas
 * Bootstrap
