@@ -20,30 +20,35 @@ window.__API_URL__ = "http://localhost:8080/api";
 
 
 1. Cadastro de alunos.
-* **Cadastrar** - para cadastrar um aluno clique no botão **inserir**.
-* **Editar** - para editar um aluno selecione marcando o campo checkbox e logo após clique em **editar**.
-* **Deletar** para editar um aluno selecione o aluno marcando campo checkbox e logo após clique em **deletar**.
+* **Botão Cadastrar** - para cadastrar um aluno clique no botão **inserir**.
+* **Botão Editar** - para editar um aluno selecione marcando o campo checkbox e logo após clique em **editar**.
+* **Botão Deletar** para editar um aluno selecione o aluno marcando campo checkbox e logo após clique em **deletar**.
 
 ![github-small](telas/cadastro-aluno.png)
 
 1.1 Formulário para cadastrar o aluno
 * O campo nome é obrigatório.
+* Preencha o formulário e clique em **inserir**
 
 ![github-small](telas/form-cadastroaluno.png)
 
 
 2. Cadastro de Média
-***Inserir** - para inserir a média de um aluno selecione um aluno marcando o campo checkbox e logo após clique em **inserir**.
+* **Botão Inserir** - para inserir a média de um aluno selecione um aluno marcando o campo checkbox e logo após clique em **inserir**.
 
 ![](telas/cadastro-media.png)
 
-
 2.2 Formulário para cadastrar média. 
+* Digite o valor da média e clique em inserir
 
 ![github-small](telas/form-cadastromedia.png)
 
 3. Importação de notas
 ![](telas/importacao-notas.png)
+
+* **Botão Visualizar :** - para visualizar as notas de um aluno selecione um aluno marcando o campo checkbox e logo após clique em **visualizar**.
+* **Botão Importar: ** - para Importar as notas de um aluno selecione um aluno marcando o campo checkbox e logo após clique em **Importar**.
+* **Botão Exportar: ** para exportar as notas de um aluno selecione um aluno marcando o campo checkbox e logo após clique em **Exportar**. Será gerado um arquivo no formato .CSV.
 
 #### Tecnologias utilizadas
 * Bootstrap
