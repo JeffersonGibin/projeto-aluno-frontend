@@ -19,11 +19,13 @@ window.__API_URL__ = "http://localhost:8080/api";
 #### Telas do sistema
 
 1. Cadastro de alunos
-[github-small](/projeto-aluno-frontend/telas/cadastro-aluno.png)
-![github-small](/projeto-aluno-frontend/telas/cadastro-aluno.png)
-2. Cadastro de Média
-3. Importação de notas
+![](telas/cadastro-aluno.png)
 
+2. Cadastro de Média
+![](telas/cadastro-media.png)
+
+3. Importação de notas
+![](telas/importacao-notas.png)
 
 #### Tecnologias utilizadas
 * Bootstrap
