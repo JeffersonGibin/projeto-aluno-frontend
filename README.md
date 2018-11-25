@@ -18,11 +18,23 @@ window.__API_URL__ = "http://localhost:8080/api";
 
 #### Telas do sistema
 
-1. Cadastro de alunos
-![](telas/cadastro-aluno.png)
+
+1. Cadastro de alunos.
+
+![github-small](telas/cadastro-aluno.png)
+
+1.1 Formulário para cadastrar o aluno. O campo nome é obrigatório
+
+![github-small](telas/form-cadastroaluno.png)
+
 
 2. Cadastro de Média
+
 ![](telas/cadastro-media.png)
+
+2.2 Formulário para cadastrar média. 
+
+![github-small](telas/form-cadastromedia.png)
 
 3. Importação de notas
 ![](telas/importacao-notas.png)
