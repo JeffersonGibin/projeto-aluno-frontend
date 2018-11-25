@@ -1,6 +1,11 @@
 $(document).ready(() => {
 
-	const URL_API = "https://projeto-aluno.herokuapp.com/api/";
+	if(window.__API_URL__ == "" || typeof window.__API_URL__ == "undefined"){
+		alert("URL da API não configurada!");
+		return false;
+	}
+
+	const URL_API = window.__API_URL__;
 	const SERVICE = "/aluno";
 
 
