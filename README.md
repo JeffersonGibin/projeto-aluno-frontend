@@ -20,17 +20,23 @@ window.__API_URL__ = "http://localhost:8080/api";
 
 
 1. Cadastro de alunos.
+* **Cadastrar** - para cadastrar um aluno clique no botão **inserir**.
+* **Editar** - para editar um aluno selecione marcando o campo checkbox e logo após clique em **editar**.
+* **Deletar** para editar um aluno selecione o aluno marcando campo checkbox e logo após clique em **deletar**.
 
 ![github-small](telas/cadastro-aluno.png)
 
-1.1 Formulário para cadastrar o aluno. O campo nome é obrigatório
+1.1 Formulário para cadastrar o aluno
+* O campo nome é obrigatório.
 
 ![github-small](telas/form-cadastroaluno.png)
 
 
 2. Cadastro de Média
+***Inserir** - para inserir a média de um aluno selecione um aluno marcando o campo checkbox e logo após clique em **inserir**.
 
 ![](telas/cadastro-media.png)
+
 
 2.2 Formulário para cadastrar média. 
 
