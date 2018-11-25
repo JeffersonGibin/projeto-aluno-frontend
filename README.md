@@ -28,4 +28,4 @@ window.__API_URL__ = "http://localhost:8080/api";
 
 #### API do Projeto
 
-API JAVA - (https://github.com/JeffersonGibin/projeto-aluno-frontend)
+API JAVA - (https://github.com/JeffersonGibin/projeto-aluno-api)
