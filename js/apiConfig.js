@@ -1,1 +1,1 @@
-window.__API_URL__ = "https://projeto-aluno.herokuapp.com/api";
+window.__API_URL__ = "";
