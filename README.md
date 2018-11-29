@@ -8,7 +8,7 @@ Essa aplicação é apenas o Front-End do projeto.
 
 
 ### Configuração
-Se você já está com o Backend Java executando em sua máquina configure a URL nesse proejeto da seguinte forma.
+Se você já está com o Backend Java executando em sua máquina configure a URL nesse projeto da seguinte forma.
 Acesse o diretório /js/apiConfig.js e configure a URL da API. 
 Ex: 
 
