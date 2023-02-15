@@ -1,10 +1,6 @@
 ## PROJETO ALUNO FRONT-END
 
-
-### O que é ?
-
-O Projeto Aluno é um projeto desenvolvido para a participação do processo seletivo da **ALPHA7 DESENVOLVIMENTO DE SOFTWARE LTDA**.
-Essa aplicação é apenas o Front-End do projeto.
+Esse projeto foi desenvolvido exclusivamente para a participação do processo seletivo da  **ALPHA7 DESENVOLVIMENTO DE SOFTWARE LTDA**.
 
 
 ### Configuração
